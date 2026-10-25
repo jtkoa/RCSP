@@ -1,0 +1,1 @@
+# One real Miami-Dade street address per line (houses you have chosen). Then run: npm run validate
